@@ -10,9 +10,10 @@
 
 | No. | Full name | Matric number | GitHub username |
 | --- | --- | --- | --- |
-| 1 | [Member 1] | [Matric number] | nurinshah |
-| 2 | [Member 2] | [Matric number] |  rhdyneldzia |
-| 3 | [Member 3] | [Matric number] | ancharlie2772 |
+| 1 | [NURIMSHAH BINTI MUHAMMAD YASEEN]  |  [314493] | nurinshah |
+| 2 | [SHANAHAN RAHADYAN EL DZIA]  |  [290799] |  rhdyneldzia |
+| 3 | [AMCHARLIE CHUSWAN A/P ARUTNOTHAI]  |  [313158] | ancharlie2772 |
+
 
 ## Project description
 
