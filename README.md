@@ -51,33 +51,28 @@ The Student Consultation Booking System is a proposed web-based platform that he
 ## Repository structure
 
 ```text
-student-consultation-booking-system/
+POWERPUFF_MIX/
 ├── README.md
-├── .gitignore
 ├── docs/
+│   ├── D1 Requirements Analysis.pdf
+│   ├── D1_Requirements_Analysis.docx
 │   └── D1_Requirements_Analysis.md
 ├── src/
-│   └── README.md
 └── tests/
-    └── README.md
-
 ```
 
 The `src` and `tests` folders contain planning notes at D1. They do **not** represent a completed working application or executed tests.
 
 ## D1 deliverables
 
-- Project objectives and scope drafted
-- Users/actors identified
-- Functional requirements documented
-- Non-functional requirements documented
-- README prepared
-- Group details verified and updated
-- GitHub repository created and files uploaded
-- All three members granted access and invited members accepted
-- Lecturer access verified
+- Project objectives and scope
+- Users/actors
+- Functional requirements
+- Non-functional requirements
+- Initial GitHub repository
+- README with project title, members and brief description
 
-[Read D1 Requirements Analysis](docs/D1_Requirements_Analysis.md)
+[Read D1 Requirements Analysis](docs/D1%20Requirements%20Analysis.pdf)
 
 ## Project development and commits
 
