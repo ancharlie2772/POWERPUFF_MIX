@@ -14,11 +14,9 @@ Week 8  |  Assessment weight: 5%
 | Group size | Three (3) students |
 | Member 1 | NURIMSHAH BINTI MUHAMMAD YASEEN  |  314493 |
 | Member 2 | SHANAHAN RAHADYAN EL DZIA  |  290799 |
-| Member 3 | AMCHARLIE CHUSWAN A/P ARUTNOTHAI  |  313158 |
+| Member 3 | ANCHARLIE CHUSWAN A/P ARUTNOTHAI  |  313158 |
 | GitHub repository | https://github.com/ancharlie2772/POWERPUFF_MIX.git |
 | Submission deadline | 19 November 2026, 11:59 PM (Malaysia time) |
-
-> **Before submission:** Replace group-member and repository placeholders; confirm the current GitHub repository and team access.
 
 Project basis: STIWK2014 Software Engineering Project - Case Study, Deliverables and Assessment Rubrics (Sections 1, 2, 7 and 9).
 
@@ -180,20 +178,6 @@ The case study does not prescribe numerical quality targets. The measurable targ
 ## 8. Development Plan
 
 The project will continue with diagrams and UI design in D2 (Week 9), core working features in D3 (Week 10), compulsory modifications and testing in D4 (Week 11), and the final system and demonstration in D5 (Week 13).
-
-## 9. D1 Submission Checklist
-
-- [ ] Complete and review all sections of this Requirements Analysis document.
-
-- [ ] Replace all group-member placeholders with three actual names and matric numbers.
-
-- [ ] Use the existing POWERPUFF_MIX group repository and verify all three students have access.
-
-- [ ] Upload README.md with the project title, team list and brief description.
-
-- [ ] Upload the Requirements Analysis document to docs/ and commit the initial project files.
-
-- [ ] Confirm the lecturer can access the repository and submit the required file/link through the class platform.
 
 ## Reference
 
