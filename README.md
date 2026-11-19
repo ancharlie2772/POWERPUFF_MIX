@@ -55,11 +55,12 @@ student-consultation-booking-system/
 ├── README.md
 ├── .gitignore
 ├── docs/
-│   ├──D1_Requirements_Analysis.md
+│   └── D1_Requirements_Analysis.md
 ├── src/
 │   └── README.md
 └── tests/
     └── README.md
+
 ```
 
 The `src` and `tests` folders contain planning notes at D1. They do **not** represent a completed working application or executed tests.
