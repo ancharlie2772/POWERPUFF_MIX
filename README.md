@@ -8,7 +8,7 @@
 
 | No. | Full name | Matric number | GitHub username |
 | --- | --- | --- | --- |
-| 1 | NURIMSHAH BINTI MUHAMMAD YASEEN  |  314493 | nurinshah |
+| 1 | NURIMSHAH BINTI MUHAMMAD YASEEN  |  314493 | nurimshah |
 | 2 | SHANAHAN RAHADYAN EL DZIA  |  290799 |  rhdyneldzia |
 | 3 | ANCHARLIE CHUSWAN A/P ARUTNOTHAI  |  313158 | ancharlie2772 |
 
