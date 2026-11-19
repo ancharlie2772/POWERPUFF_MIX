@@ -12,10 +12,10 @@ Week 8  |  Assessment weight: 5%
 | Item | Details |
 | --- | --- |
 | Group size | Three (3) students |
-| Member 1 | [NURIMSHAH BINTI MUHAMMAD YASEEN]  |  [314493] |
-| Member 2 | [SHANAHAN RAHADYAN EL DZIA]  |  [290799] |
-| Member 3 | [AMCHARLIE CHUSWAN A/P ARUTNOTHAI]  |  [313158] |
-| GitHub repository | [https://github.com/ancharlie2772/POWERPUFF_MIX.git] |
+| Member 1 | NURIMSHAH BINTI MUHAMMAD YASEEN  |  314493 |
+| Member 2 | SHANAHAN RAHADYAN EL DZIA  |  290799 |
+| Member 3 | AMCHARLIE CHUSWAN A/P ARUTNOTHAI  |  313158 |
+| GitHub repository | https://github.com/ancharlie2772/POWERPUFF_MIX.git |
 | Submission deadline | 19 November 2026, 11:59 PM (Malaysia time) |
 
 > **Before submission:** Replace group-member and repository placeholders; confirm the current GitHub repository and team access.
