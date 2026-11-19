@@ -12,7 +12,7 @@
 | --- | --- | --- | --- |
 | 1 | [NURIMSHAH BINTI MUHAMMAD YASEEN]  |  [314493] | nurinshah |
 | 2 | [SHANAHAN RAHADYAN EL DZIA]  |  [290799] |  rhdyneldzia |
-| 3 | [AMCHARLIE CHUSWAN A/P ARUTNOTHAI]  |  [313158] | ancharlie2772 |
+| 3 | [ANCHARLIE CHUSWAN A/P ARUTNOTHAI]  |  [313158] | ancharlie2772 |
 
 
 ## Project description
