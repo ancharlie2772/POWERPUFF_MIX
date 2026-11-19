@@ -6,13 +6,11 @@
 
 ## Project members
 
-> Replace all placeholders with the real details before submission.
-
 | No. | Full name | Matric number | GitHub username |
 | --- | --- | --- | --- |
-| 1 | [NURIMSHAH BINTI MUHAMMAD YASEEN]  |  [314493] | nurinshah |
-| 2 | [SHANAHAN RAHADYAN EL DZIA]  |  [290799] |  rhdyneldzia |
-| 3 | [ANCHARLIE CHUSWAN A/P ARUTNOTHAI]  |  [313158] | ancharlie2772 |
+| 1 | NURIMSHAH BINTI MUHAMMAD YASEEN  |  314493 | nurinshah |
+| 2 | SHANAHAN RAHADYAN EL DZIA  |  290799 |  rhdyneldzia |
+| 3 | ANCHARLIE CHUSWAN A/P ARUTNOTHAI  |  313158 | ancharlie2772 |
 
 
 ## Project description
@@ -57,8 +55,7 @@ student-consultation-booking-system/
 ├── README.md
 ├── .gitignore
 ├── docs/
-│   ├── D1_Requirements_Analysis.docx
-│   └── D1_Requirements_Analysis.pdf
+│   ├──D1_Requirements_Analysis.md
 ├── src/
 │   └── README.md
 └── tests/
@@ -69,17 +66,17 @@ The `src` and `tests` folders contain planning notes at D1. They do **not** repr
 
 ## D1 deliverables
 
-- [x] Project objectives and scope drafted
-- [x] Users/actors identified
-- [x] Functional requirements documented
-- [x] Non-functional requirements documented
-- [x] README prepared
-- [ ] Group details verified and updated
-- [ ] GitHub repository created and files uploaded
-- [ ] All three members granted access and invited members accepted
-- [ ] Lecturer access verified
+- Project objectives and scope drafted
+- Users/actors identified
+- Functional requirements documented
+- Non-functional requirements documented
+- README prepared
+- Group details verified and updated
+- GitHub repository created and files uploaded
+- All three members granted access and invited members accepted
+- Lecturer access verified
 
-Read the full D1 report in `docs/D1_Requirements_Analysis.pdf` (or edit the Word version).
+[Read D1 Requirements Analysis](docs/D1_Requirements_Analysis.md)
 
 ## Project development and commits
 
